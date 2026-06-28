@@ -1,0 +1,2 @@
+SERVER - IP - 43.200.62.177 Username - admin SSHkey - /Users/mdtauhidulamin/Desktop/AWS/SSHkey.pem
+웹 폴더: /var/www/html
